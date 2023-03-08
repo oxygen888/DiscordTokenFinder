@@ -16,4 +16,4 @@ python3 DiscordID_to_Token.py
 
 <h2>Author</h2>
 Developed By : Oxygen
-Instagram : @oxyg3nxd
+https://www.instagram.com/oxyg3nxd
