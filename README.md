@@ -1,5 +1,5 @@
 # Discord ID to Token
-Discord Token find by Discord ID
+Discord Token find from Discord ID
 
 
 <h2>Setup</h2>
