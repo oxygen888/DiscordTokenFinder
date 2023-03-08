@@ -11,7 +11,7 @@ pkg install python3
 git clone https://github.com/oxygen888/DiscordTokenFinder.git
 cd DiscordTokenFinder
 pip install -r requirements.txt
-python3 DiscordID_to_Token.py
+python3 TokenFinder.py
 ```
 
 <h2>Author</h2>
