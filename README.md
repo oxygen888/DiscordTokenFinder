@@ -2,7 +2,7 @@
 Discord Token finder By Discord ID
 
 # Setup
-pkg install && pkg upgrade
+pkg install && pkg upgrade\n
 pkg install python3
 pkg install git
 git clone https://github.com/oxygen888/DiscordIDtoToken.git
