@@ -13,3 +13,7 @@ cd DiscordTokenFinder
 pip install -r requirements.txt
 python3 DiscordID_to_Token.py
 ```
+
+<h2>Author</h2>
+Developed By : Oxygen
+Instagram : @oxyg3nxd
