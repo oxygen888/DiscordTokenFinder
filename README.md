@@ -1,5 +1,5 @@
 # Discord ID to Token
-Discord Token find from Discord ID
+Discord Token finder from Discord ID for Termux
 
 
 <h2>Setup</h2>
