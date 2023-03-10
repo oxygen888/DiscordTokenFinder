@@ -17,3 +17,6 @@ python3 TokenFinder.py
 <h2>Author</h2>
 Developed By : Oxygen
 https://www.instagram.com/oxyg3nxd
+
+<h2>WARNING</h2>
+I am not responsible for any action taken or to be taken!
